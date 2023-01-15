@@ -10,7 +10,7 @@ credit: longpanda
 
 Bu betik dosyası ile komut arayüzünden kolay bir şekilde Ventoy'u USB/HDD disklerinize kurulum yapabilirsiniz.
 
-USB veya HDD disklere kurulum yapmak için 1-2 tıklama yeterlidir.
+USB/HDD disklere kurulum yapmak için 1-2 tıklama yeterlidir.
 	
 	DİKKAT:
 
