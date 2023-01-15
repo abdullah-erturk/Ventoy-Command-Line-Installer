@@ -6,6 +6,8 @@ Ventoy Github: https://github.com/ventoy/Ventoy
 
 credit: longpanda 
 
+![Ventoytr](https://user-images.githubusercontent.com/54866587/212537254-2d84bc76-8491-49f3-8cd1-5569b67e248a.png)
+
 	1- Türkçe Açıklama
 
 Bu betik dosyası ile komut arayüzünden kolay bir şekilde Ventoy'u USB/HDD disklerinize kurulum yapabilirsiniz.
@@ -28,6 +30,8 @@ Türkçe versiyonu için not:
 Türkçe karakterleri görüntülediğinizde düzgün görünmesi için betik dosyasını Notepadd++ ile açtıktan sonra 
 Kodlama > Karakter Takımı > Türkçe > OEM 857'yi seçin.
 		
+	
+![Ventoyen](https://user-images.githubusercontent.com/54866587/212537272-59ca579f-bc1e-4a2d-922e-cf16eb1c268d.png)
 	
 	2- English Explanation
 
