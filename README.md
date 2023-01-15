@@ -22,7 +22,7 @@ Betik dosyası Ventoy v1.0.88 ve sonraki sürümleri ile uyumludur.
 
 Betik dosyasını ventoy-xxx klasörü içine kopyalayarak kullanabilirsiniz.
 
-Ventoy GUI üzerinden yapılan kurulumdaki tüm seçenekler betik dosyası da desteklemektedir.
+Ventoy GUI üzerinden yapılan kurulumdaki tüm seçenekleri betik dosyası da desteklemektedir.
 
 Türkçe versiyonu için not:
 Türkçe karakterleri görüntülediğinizde düzgün görünmesi için betik dosyasını Notepadd++ ile açtıktan sonra 
