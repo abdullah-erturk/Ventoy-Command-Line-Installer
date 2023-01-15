@@ -1,4 +1,4 @@
-# Ventoy Ventoy-Command-Line-Installer
+# Ventoy Command Line Installer
 
 https://www.tnctr.com/topic/1216460-ventoy-komut-kurulumu-betik-dosyas%C4%B1/
 
