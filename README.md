@@ -31,6 +31,12 @@ Kodlama > Karakter Takımı > Türkçe > OEM 857'yi seçin.
 	
 	2- English Explanation
 
+With this script, you can easily install Ventoy on your USB/HDD disks from the command interface.
+
+1-2 clicks are enough to install on USB/HDD disks.
+
+	ATTENTION:
+
 Any disk operation has certain risks. The script tries to keep existing data safe by notifying the user, but for very important data a backup is highly recommended first.
  
 If you will not install with the non-destructive installation option via Ventoy in the first installation, your USB/HDD disk will be completely formatted. Take your precautions for data loss.
